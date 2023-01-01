@@ -8,6 +8,7 @@ This repository contains a Deep Q-Network (DQN) trained to solve the Cartpole en
 * Install dependencies: `pip install -r requirements.txt`
 * Train the DQN: `python main.py`
 * Test the trained model: `python test.py`
+* (Optional) Run `tensorboard --logdir=./runs` to monitor training stats
 
 # 📝 Note
 
